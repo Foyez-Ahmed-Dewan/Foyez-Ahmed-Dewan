@@ -1,10 +1,12 @@
 ### Hi! I'm Foyez 👋
 
-- 🎓 Currently a 4th-year CSE undergraduate student at **RUET**
-- 🤖 Exploring **Machine Learning** and **MLOps**
-- 🔬 Open to collaborating on research in **ML**, **Deep Learning**, **Computer Vision (CV)**,  
-  **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**
-- 🏆 Passionate about participating in **programming contests**, **hackathons**, and **datathons**
+- 🎓 Final-year CSE undergraduate at **RUET**
+- 🤖 Focused on **Machine Learning, MLOps, and scalable AI systems**
+- 🔬 Experienced in **NLP, LLMs, VLMs, and RAG systems**
+- ⚙️ Skilled in building production-ready systems using **DVC, FastAPI, MLflow, Docker, and cloud deployment (AWS)**
+- 🚀 Passionate about developing **end-to-end ML pipelines**
+- 🏆 Active participant in **programming contests, hackathons, and datathons**
+- 🤝 Open to research collaboration and impactful ML projects
 
 ---
 
