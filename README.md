@@ -4,7 +4,6 @@
 - 🤖 Focused on **Machine Learning, MLOps, and scalable AI systems**
 - 🔬 Experienced in **NLP, LLMs, VLMs, and RAG systems**
 - ⚙️ Skilled in building production-ready systems using **DVC, FastAPI, MLflow, Docker, and cloud deployment (AWS)**
-- 🚀 Passionate about developing **end-to-end ML pipelines**
 - 🏆 Active participant in **programming contests, hackathons, and datathons**
 - 🤝 Open to research collaboration and impactful ML projects
 
