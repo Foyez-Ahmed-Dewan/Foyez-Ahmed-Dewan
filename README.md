@@ -7,7 +7,6 @@
 - 🏆 Active participant in **programming contests, hackathons, and datathons**
 - 🤝 Open to research collaboration and impactful ML projects
 
----
 
 <!-- <div align="center">
 
@@ -43,7 +42,6 @@
 
 </div> -->
 
----
 <!-- <h3 align="center"><b>🏆 Hacktoberfest 2025 Badges 🏆</b></h3>
 <div align="center"><b>🌱 Completed All 6 Levels 🌱</b></div><br>
 
