@@ -9,7 +9,7 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 <h3 align="center"><b>📞 Connect with me</b></h3>
 
@@ -41,14 +41,14 @@
 
 </p>
 
-</div>
+</div> -->
 
 ---
-<h3 align="center"><b>🏆 Hacktoberfest 2025 Badges 🏆</b></h3>
+<!-- <h3 align="center"><b>🏆 Hacktoberfest 2025 Badges 🏆</b></h3>
 <div align="center"><b>🌱 Completed All 6 Levels 🌱</b></div><br>
 
 <p align="center">
   <a href="https://holopin.io/@foyezahmeddewan">
     <img src="https://holopin.me/foyezahmeddewan" width="75%">
   </a>
-</p>
+</p> -->
